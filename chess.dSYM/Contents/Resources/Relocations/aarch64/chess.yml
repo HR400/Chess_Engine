@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sambhavpundir/Desktop/Chess_Engine/chess'
+relocations:     []
+...
