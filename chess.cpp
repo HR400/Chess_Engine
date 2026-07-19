@@ -39,7 +39,3 @@ U64 ALL_BLACK = BP|BC|BN|BB|BQ|BK;
 U64 OCCUPIED = ALL_WHITE|ALL_BLACK;
 
 U64 EMPTY = ~OCCUPIED;//Empty Squares
-
-int main(){
-    return;
-}
