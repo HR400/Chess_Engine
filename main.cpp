@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main(){
+int main(int argc , char** argv){
     if(!glfwInit()){
         std::cerr<<"Failed to initialize GLFW"<<std::endl;
         return -1;
